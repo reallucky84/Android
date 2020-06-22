@@ -1,1 +1,1 @@
-This is mvp-coin
+mvp architecture with firebase database
